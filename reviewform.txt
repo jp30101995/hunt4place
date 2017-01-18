@@ -1,0 +1,14 @@
+rating
+title of review 
+review
+sort of trip was this
+when did you travel
+hotel and amenities
+hotel rating
+	service
+	location
+	value
+wifi service
+tips for choosing room
+add photoes
+condition for review

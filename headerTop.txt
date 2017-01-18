@@ -1,0 +1,24 @@
+                    <div class="header-top">
+                        <div class="header-search2">
+							<button type="button" onClick="register()" class="button button1" >register</button>
+                        </div><!-- /.header-search -->
+                        <div class="header-search2">
+                        <form id="loginform" method="post" action="login.php">
+							<button type="submit" class="button button1" >Login</button>
+                        </div><!-- /.header-search -->
+                        <div class="header-search">
+                            <input type="password" name="password" class="form-control" placeholder="Password">
+                        </div><!-- /.header-search -->
+                        <div class="header-search">
+                            <input type="text" name="email" class="form-control" placeholder="Emain-ID">
+                        </form>
+                        </div><!-- /.header-search -->
+                        <ul class="header-nav-secondary nav nav-pills">
+                            <li><a href="login.html">Forget Password</a></li>
+                        </ul>
+                        <ul class="header-nav-social social-links nav nav-pills">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        </ul><!-- /.header-nav-social -->
+                    </div><!-- /.header-top -->

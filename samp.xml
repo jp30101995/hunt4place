@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200311</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            
+
+<average_cost_for_two>1300</average_cost_for_two>
+            <cuisines>Mediterranean, Italian</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200311</deeplink>
+            <events_url>https://www.zomato.com/vadodara/la-
+
+quello-vadiwadi/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            
+
+<featured_image>https://b.zmtcdn.com/data/pictures/1/3200311
+
+/1e2ab182f7a14768b0f49925524f55db_featured_v2.jpg</featured_
+
+image>
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200311</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>1, Trivia, Natu Bhai Circle, Race 
+
+Course Road, Vadiwadi, Vadodara 390007</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>22.3102369590</latitude>
+               <locality>Vadiwadi</locality>
+               <longitude>73.1589208916</longitude>
+               <zipcode>390007</zipcode>
+            </location>
+            <menu_url>https://www.zomato.com/vadodara/la-
+
+quello-vadiwadi/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>La Quello - Mediterranean Kitchen</name>
+            <offers />
+            <photos_url>https://www.zomato.com/vadodara/la-
+
+quello-vadiwadi/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>3</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/data/pictures/1/3200311/1e2ab182
+
+f7a14768b0f49925524f55db_res_featured_thumb.jpg</thumb>
+            <url>https://www.zomato.com/vadodara/la-quello-
+
+vadiwadi?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>4.3</aggregate_rating>
+               <rating_color>3F7E00</rating_color>
+               <rating_text>Excellent</rating_text>
+               <votes>208</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200090</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            <average_cost_for_two>400</average_cost_for_two>
+            <cuisines>South Indian</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200090</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/22nd-parallel-
+
+alkapuri/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            <featured_image />
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200090</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>1st Floor, Tapan Complex, Next To M 
+
+Cube Mall, Alkapuri, Vadodara</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>22.3078980000</latitude>
+               <locality>Alkapuri</locality>
+               <longitude>73.1677880000</longitude>
+               <zipcode />
+            </location>
+            <menu_url>https://www.zomato.com/vadodara/22nd-
+
+parallel-alkapuri/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>22nd Parallel</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/22nd-parallel-
+
+alkapuri/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>2</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/images/res_avatar_120_1x_new.png
+
+</thumb>
+            <url>https://www.zomato.com/vadodara/22nd-
+
+parallel-alkapuri?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>4.4</aggregate_rating>
+               <rating_color>3F7E00</rating_color>
+               <rating_text>Excellent</rating_text>
+               <votes>246</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200034</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            
+
+<average_cost_for_two>1200</average_cost_for_two>
+            <cuisines>North Indian, Mughlai, Mexican, 
+
+Thai</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200034</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/tomatos-
+
+vadiwadi/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            
+
+<featured_image>https://b.zmtcdn.com/data/pictures/4/3200034
+
+/3fb0630f29b7f73ecc84d4a2cf6df493_featured_v2.jpg</featured_
+
+image>
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200034</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>1st Floor, Aditi Plaza, Beside IDBI 
+
+Bank, Race Course Road, Vadiwadi, Vadodara. 390007</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>22.3113580000</latitude>
+               <locality>Vadiwadi</locality>
+               <longitude>73.1647980000</longitude>
+               <zipcode>390007</zipcode>
+            </location>
+            
+
+<menu_url>https://www.zomato.com/vadodara/tomatos-
+
+vadiwadi/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>Tomato's</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/tomatos-
+
+vadiwadi/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>3</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/data/pictures/4/3200034/3fb0630f
+
+29b7f73ecc84d4a2cf6df493_res_featured_thumb.jpg</thumb>
+            <url>https://www.zomato.com/vadodara/tomatos-
+
+vadiwadi?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>4.1</aggregate_rating>
+               <rating_color>3F7E00</rating_color>
+               <rating_text>Excellent</rating_text>
+               <votes>286</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200431</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            <average_cost_for_two>600</average_cost_for_two>
+            <cuisines>North Indian, Chinese, Fast 
+
+Food</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200431</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/the-morsel-
+
+bite-of-happiness-balis-cafe-vadiwadi/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            <featured_image />
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200431</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>Atlantis Heritage, Sarabhai Main 
+
+Road, Vadiwadi, Vadodara</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>0.0000000000</latitude>
+               <locality>Vadiwadi</locality>
+               <longitude>0.0000000000</longitude>
+               <zipcode />
+            </location>
+            <menu_url>https://www.zomato.com/vadodara/the-
+
+morsel-bite-of-happiness-balis-cafe-vadiwadi/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>The Morsel Bite of Happiness &amp; Bali's 
+
+Cafe</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/the-morsel-
+
+bite-of-happiness-balis-cafe-vadiwadi/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>2</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/images/res_avatar_120_1x_new.png
+
+</thumb>
+            <url>https://www.zomato.com/vadodara/the-
+
+morsel-bite-of-happiness-balis-cafe-vadiwadi?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>3.6</aggregate_rating>
+               <rating_color>5BA829</rating_color>
+               <rating_text>Very Good</rating_text>
+               <votes>62</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200021</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            
+
+<average_cost_for_two>1500</average_cost_for_two>
+            <cuisines>Italian, Mexican, Cafe, 
+
+Continental</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200021</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/that-place-
+
+alkapuri/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            
+
+<featured_image>https://b.zmtcdn.com/data/pictures/chains/1/
+
+3200021/659f214b4aadfe9525e3550361d27a26_featured_v2.jpg</fe
+
+atured_image>
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200021</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>33, Sampatrao Colony, Alkapuri, 
+
+Vadodara</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>0.0000000000</latitude>
+               <locality>Alkapuri</locality>
+               <longitude>0.0000000000</longitude>
+               <zipcode />
+            </location>
+            <menu_url>https://www.zomato.com/vadodara/that-
+
+place-alkapuri/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>That Place</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/that-place-
+
+alkapuri/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>4</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/data/pictures/chains/1/3200021/6
+
+59f214b4aadfe9525e3550361d27a26_featured_thumb.jpg</thumb>
+            <url>https://www.zomato.com/vadodara/that-
+
+place-alkapuri?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>4.0</aggregate_rating>
+               <rating_color>5BA829</rating_color>
+               <rating_text>Very Good</rating_text>
+               <votes>181</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200238</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            <average_cost_for_two>100</average_cost_for_two>
+            <cuisines>Fast Food</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200238</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/jay-mahakali-
+
+sev-usal-mandvi/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            <featured_image />
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200238</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>14-15, Prathamesh Complex, Opposite 
+
+Nehru Bhawan,Kirti Stambh, Rajmahal Road, Mandvi, 
+
+Vadodara</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>0.0000000000</latitude>
+               <locality>Mandvi</locality>
+               <longitude>0.0000000000</longitude>
+               <zipcode />
+            </location>
+            <menu_url>https://www.zomato.com/vadodara/jay-
+
+mahakali-sev-usal-mandvi/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>Jay Mahakali Sev Usal</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/jay-mahakali-
+
+sev-usal-mandvi/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>1</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/images/res_avatar_120_1x_new.png
+
+</thumb>
+            <url>https://www.zomato.com/vadodara/jay-
+
+mahakali-sev-usal-mandvi?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>4.9</aggregate_rating>
+               <rating_color>305D02</rating_color>
+               <rating_text>Legendary</rating_text>
+               <votes>98</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200012</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            
+
+<average_cost_for_two>1500</average_cost_for_two>
+            <cuisines>Mughlai, North Indian</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200012</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/barbeque-
+
+nation-alkapuri/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            
+
+<featured_image>https://b.zmtcdn.com/data/pictures/2/3200012
+
+/5280dc6a39dff4988b15d90a0230619e_featured_v2.jpg</featured_
+
+image>
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200012</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>3rd Floor, Shreem Shalini Mall, R.C. 
+
+Dutt Road, Alkapuri, Vadodara</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>22.3105260000</latitude>
+               <locality>Alkapuri</locality>
+               <longitude>73.1709370000</longitude>
+               <zipcode />
+            </location>
+            
+
+<menu_url>https://www.zomato.com/vadodara/barbeque-nation-
+
+alkapuri/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>Barbeque Nation</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/barbeque-
+
+nation-alkapuri/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>4</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/data/pictures/2/3200012/5280dc6a
+
+39dff4988b15d90a0230619e_res_featured_thumb.jpg</thumb>
+            <url>https://www.zomato.com/vadodara/barbeque-
+
+nation-alkapuri?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>4.2</aggregate_rating>
+               <rating_color>3F7E00</rating_color>
+               <rating_text>Excellent</rating_text>
+               <votes>238</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200560</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            <average_cost_for_two>0</average_cost_for_two>
+            <cuisines>Fast Food</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200560</deeplink>
+            <events_url>https://www.zomato.com/vadodara/mr-
+
+toasties-1-vadiwadi/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            
+
+<featured_image>https://b.zmtcdn.com/data/pictures/0/3200560
+
+/4ac5aecc6b65d56c47e780e23bc2d65c_featured_v2.jpg</featured_
+
+image>
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200560</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>2/8 MIG Flats, Opposite Indraprastha 
+
+Complex, Near LG Showroom, Inox Road, Ellora Park, Vadiwadi, 
+
+Vadodara</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>0.0000000000</latitude>
+               <locality>Vadiwadi</locality>
+               <longitude>0.0000000000</longitude>
+               <zipcode />
+            </location>
+            <menu_url>https://www.zomato.com/vadodara/mr-
+
+toasties-1-vadiwadi/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>Mr Toasties</name>
+            <offers />
+            <photos_url>https://www.zomato.com/vadodara/mr-
+
+toasties-1-vadiwadi/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>1</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/data/pictures/0/3200560/4ac5aecc
+
+6b65d56c47e780e23bc2d65c_res_featured_thumb.jpg</thumb>
+            <url>https://www.zomato.com/vadodara/mr-
+
+toasties-1-vadiwadi?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>3.4</aggregate_rating>
+               <rating_color>9ACD32</rating_color>
+               <rating_text>Good</rating_text>
+               <votes>11</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200015</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            <average_cost_for_two>600</average_cost_for_two>
+            <cuisines>Gujarati</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200015</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/mandap-hotel-
+
+express-towers-alkapuri/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            
+
+<featured_image>https://b.zmtcdn.com/data/pictures/5/3200015
+
+/efcbecbc56984ef28ff88f1b41b852ce_featured_v2.jpg</featured_
+
+image>
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200015</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>Hotel Express Towers, R.C. Dutt 
+
+Road, Alkapuri, Vadodara 390007</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>22.3103290000</latitude>
+               <locality>Alkapuri</locality>
+               <longitude>73.1690830000</longitude>
+               <zipcode>390007</zipcode>
+            </location>
+            
+
+<menu_url>https://www.zomato.com/vadodara/mandap-hotel-
+
+express-towers-alkapuri/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>Mandap - Hotel Express Towers</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/mandap-hotel-
+
+express-towers-alkapuri/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>2</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/data/pictures/5/3200015/efcbecbc
+
+56984ef28ff88f1b41b852ce_res_featured_thumb.jpg</thumb>
+            <url>https://www.zomato.com/vadodara/mandap-
+
+hotel-express-towers-alkapuri?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>4.0</aggregate_rating>
+               <rating_color>5BA829</rating_color>
+               <rating_text>Very Good</rating_text>
+               <votes>136</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+      <element>
+         <restaurant>
+            <R>
+               <res_id>3200440</res_id>
+            </R>
+            
+
+<apikey>db7ccee9fab4d30f2edfcfb6c1cca093</apikey>
+            <average_cost_for_two>600</average_cost_for_two>
+            <cuisines>North Indian, Chinese</cuisines>
+            <currency>Rs.</currency>
+            <deeplink>zomato://r/3200440</deeplink>
+            
+
+<events_url>https://www.zomato.com/vadodara/kabir-kitchen-
+
+alkapuri/events#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</events_url>
+            <featured_image />
+            <has_online_delivery>0</has_online_delivery>
+            <id>3200440</id>
+            <is_delivering_now>0</is_delivering_now>
+            <location>
+               <address>R.C. Dutt Road,Opposite Concord 
+
+Building, Alkapuri, Vadodara</address>
+               <city>Vadodara</city>
+               <city_id>32</city_id>
+               <country_id>1</country_id>
+               <latitude>0.0000000000</latitude>
+               <locality>Alkapuri</locality>
+               <longitude>0.0000000000</longitude>
+               <zipcode />
+            </location>
+            
+
+<menu_url>https://www.zomato.com/vadodara/kabir-kitchen-
+
+alkapuri/menu#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</menu_url>
+            <name>Kabir Kitchen</name>
+            <offers />
+            
+
+<photos_url>https://www.zomato.com/vadodara/kabir-kitchen-
+
+alkapuri/photos#tabtop?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</photos_url>
+            <price_range>2</price_range>
+            
+
+<thumb>https://b.zmtcdn.com/images/res_avatar_120_1x_new.png
+
+</thumb>
+            <url>https://www.zomato.com/vadodara/kabir-
+
+kitchen-alkapuri?
+
+utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaig
+
+n=v2.1</url>
+            <user_rating>
+               <aggregate_rating>3.6</aggregate_rating>
+               <rating_color>5BA829</rating_color>
+               <rating_text>Very Good</rating_text>
+               <votes>80</votes>
+            </user_rating>
+         </restaurant>
+      </element>
+</root>

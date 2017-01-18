@@ -1,0 +1,56 @@
+<?php if($row3["maharaja"]) echo "1300/couple";
+													  if($row3["Range2"]) echo "900/couple";
+													  if($row3["Affordable"]) echo "600/couple";
+													  if($row3["Economy"]) echo "400/couple";
+													  if($row3["Essential"]) echo "300/couple"; ?>
+
+
+
+
+
+
+
+
+                <div class="sidebar-secondary-admin">
+                    <ul>
+                        <li>
+                            <a href="dashboard_suggestion.php" target="iframe">
+                                <span class="icon">News</span>
+                                <span class="subtitle"></span>
+                            </a>
+                        </li>
+
+                        <li >
+                            <a href="" target="iframe">
+                                <span class="icon">Recommandation</span>
+                                <span class="subtitle"></span>
+                            </a>
+                        </li>
+
+                        <li >
+                            <a href="" target="iframe">
+                                <span class="icon"><img src="assets/img/notification.png" height="30" width="30"></span>
+                                <span class="subtitle"></span>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="searchHotel.php" target="iframe">
+                                <span class="icon">Retehotel</span>
+                                <span class="subtitle"></span>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="searchPlace.php" target="iframe">
+                                <span class="icon">Rateplace</span>
+                                <span class="subtitle"></span>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="searchHotel.php" target="iframe">
+                                <span class="icon">Review</span>
+                                <span class="subtitle"></span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div><!-- /.sidebar-secondary-admin -->

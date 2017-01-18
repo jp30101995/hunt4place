@@ -1,0 +1,14 @@
+Questionnaire:
+Hotel:
+Morning,afternoon,evening
+veg,non veg,eggs
+maharaja,range2,affordable,economy,essential
+
+
+Common:
+Hotel,Entertainment,search
+Available,not Available  [(20*20)png]
+AC,Wifi,Parking [(20*20)png]
+Non AC, Not Wifi , Not Parking [(20*20)png]
+Like , dislike [(30*30)png]
+Recommandation, Hotel, Entertainment [(25*25)png]

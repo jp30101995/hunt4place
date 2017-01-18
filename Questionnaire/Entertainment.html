@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from ajoke.cz/wizard2/examples?t=circle&e=slide&r=0 by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 01 Jan 2016 19:24:48 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Entertainment-Questionnaire</title>
+	<link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="ZmtKY1dSSnchGzsxOQg4IxcGEzQDCHwWXwEPUxUbEgQEXTgWLjwYKA==">
+<link href="css/all-1446562932.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+    <link href="http://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet" type="text/css">
+    <link href="assets/libraries/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/libraries/owl.carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css" >
+    <link href="assets/libraries/colorbox/example1/colorbox.css" rel="stylesheet" type="text/css" >
+    <link href="assets/libraries/bootstrap-select/bootstrap-select.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/libraries/bootstrap-fileinput/fileinput.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/superlist.css" rel="stylesheet" type="text/css" >
+
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.png">
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">var yii_site_finis_url = 'getFinish.html';</script>    <style>
+        .buy-it {
+            border-left: 3px solid #181818;
+            border-right: 3px solid #181818;
+        }
+    </style>
+</head>
+<body>
+
+
+
+
+
+
+
+<div class="page-wrapper">
+    
+    <header class="header">
+    <div class="header-wrapper">
+        <div class="container">
+            <div class="header-inner">
+                <div class="header-logo">
+                    <a href="index.html">
+                        <img src="assets/favicon.png" alt="Logo">
+                        <span>Hunt4place</span>
+                    </a>
+                </div><!-- /.header-logo -->
+
+                <div class="header-content">
+                    <div class="header-top">
+
+
+                        <ul class="header-nav-secondary nav nav-pills">
+                            <li><a href="../login.html">Login</a></li>
+                            <li><a href="../register.html">Register</a></li>
+                        </ul>
+                    </div><!-- /.header-top -->
+
+                    <div class="header-bottom">
+
+                        <ul class="header-nav-primary nav nav-pills collapse navbar-collapse">
+    <li >
+        <a href="../index.html">Home <i></i></a>
+    </li>
+    <li >
+        <a href="Hotel.html">Hotel<i></i></a>
+    </li>
+</ul>
+
+<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".header-nav-primary">
+    <span class="sr-only">Toggle navigation</span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+</button>
+
+                    </div><!-- /.header-bottom -->
+                </div><!-- /.header-content -->
+            </div><!-- /.header-inner -->
+        </div><!-- /.container -->
+    </div><!-- /.header-wrapper -->
+</header><!-- /.header -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="container">
+				<span id="theme_name" style="display: none;">circle</span>
+<span id="trans_name" style="display: none;">slide</span>
+<span id="rtl" style="display: none;">0</span>
+<style>
+    .theme-changer {
+        position: fixed;
+        z-index: 9999;
+        top: 25px;;
+        right: 0;;
+    }
+    .theme-changer .theme-inner {
+        overflow: hidden;
+    }
+    .theme-changer .headtext {
+        font-size: 14px;
+        font-weight: 700;
+        color: #959595;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        padding: 20px 5px 15px 0;
+        text-align: center;;
+        background: rgba(255,255,255,0.5);
+        margin-top: 30px;
+        border-radius: 10px;
+    }
+    .theme-changer .btn-group-vertical {
+        margin: 0 auto;
+        display: block;
+        width: 82px;
+    }
+    .theme-changer .settings {
+        position: absolute;
+        left: -45px;
+        background: rgba(255, 255, 255, 0.8);
+        top: 40px;
+        padding: 5px;
+        border-radius: 100%;
+        cursor: pointer;
+    }
+    @media all and (max-width: 992px) {
+        .theme-changer {
+            right: -110px;
+        }
+    }
+</style>
+<div class="site-index">
+
+
+	<div class="body-content">
+        
+<div class="row">
+    <div class="col-md-12">
+        <h2>Too much steps</h2>
+        <form id="wizard_example_5" action="#">
+            <fieldset>
+                <legend>Basic information</legend>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Email address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Password</label>
+                            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Password again</label>
+                            <input type="password" class="form-control" id="exampleInputPasswordAgain1" placeholder="Password">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Favorite number</label>
+                            <select class="form-control">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                                <option value="6">6</option>
+                                <option value="7">7</option>
+                                <option value="8">8</option>
+                                <option value="9">9</option>
+                                <option value="10">10</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Own animals</label>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox"> Goat
+                                </label>
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox"> Cow
+                                </label>
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox"> Rooster
+                                </label>
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox"> Crocodile
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        In publishing and graphic design, lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation, such as web pages, typography, and graphical layout. It is a form of "greeking".
+                    </div>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Condition</legend>
+                In publishing and graphic design, lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation, such as web pages, typography, and graphical layout. It is a form of "greeking".
+                Even though using "lorem ipsum" often arouses curiosity due to its resemblance to classical Latin, it is not intended to have meaning. Where text is visible in a document, people tend to focus on the textual content rather than upon overall presentation, so publishers use lorem ipsum when displaying a typeface or design in order to direct the focus to presentation. "Lorem ipsum" also approximates a typical distribution of letters in English.
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsRadios" value="option1" checked>
+                        Yes, it is totaly right.
+                    </label>
+                </div>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsRadios" value="option2">
+                        No, I check it twice and it is not right.
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Final step</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            Even though using "lorem ipsum" often arouses curiosity due to its resemblance to classical Latin, it is not intended to have meaning. Where text is visible in a document, people tend to focus on the textual content rather than upon overall presentation, so publishers use lorem ipsum when displaying a typeface or design in order to direct the focus to presentation. "Lorem ipsum" also approximates a typical distribution of letters in English.
+                        </p>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="sr-only" for="exampleInputName1">Your name</label>
+                                    <input type="email" class="form-control" id="exampleInputName1" placeholder="Your name">
+                                </div>
+                                <div class="form-group">
+                                    <label class="sr-only" for="exampleInputCat1">Name of your cat</label>
+                                    <input type="email" class="form-control" id="exampleInputCat1" placeholder="Name of your cat">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="sr-only" for="exampleInputHam1"></label>
+                                    <input type="email" class="form-control" id="exampleInputHam1" placeholder="Name of your hamster">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="sr-only" for="exampleInputGrocer1"></label>
+                                    <input type="email" class="form-control" id="exampleInputGrocer1" placeholder="Name of your grocery seller">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="optionsRadios" value="option1" checked>
+                                        Option one is this and that&mdash;be sure to include why it's great
+                                    </label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="optionsRadios" value="option2">
+                                        Option two can be something else and selecting it will deselect option one
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox"> I want have super-power
+                                    </label>
+                                </div>
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" value=""> I have one or more super-power already
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <p>
+                            Even though using "lorem ipsum" often arouses curiosity due to its resemblance to classical Latin, it is not intended to have meaning. Where text is visible in a document, people tend to focus on the textual content rather than upon overall presentation, so publishers use lorem ipsum when displaying a typeface or design in order to direct the focus to presentation. "Lorem ipsum" also approximates a typical distribution of letters in English.
+                        </p>
+                        <p>
+                            Using "lorem ipsum" often arouses curiosity due to its resemblance to classical Latin, it is not intended to have meaning. Where text is visible in a document, people tend to focus on the textual content rather than upon overall presentation, so publishers use lorem ipsum when displaying a typeface or design in order to direct the focus to presentation. "Lorem ipsum" also approximates a typical distribution of letters in English.
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Ha, Final step is liar</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            text
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>I will be final step</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            text
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>This must be endless wizard</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            text
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Yes, indeed</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            text
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>No, indeedn't</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            text
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Ninth is ok</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            Now you can use 99 steps in all themes.
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+			<fieldset>
+                <legend>And other</legend>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>
+                            Now you can use 99 steps in all themes.
+                        </p>
+                    </div>
+                    <noscript>
+                        <input class="nocsript-finish-btn sf-right nocsript-sf-btn" type="submit" value="finish"/>
+                    </noscript>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+
+        
+
+
+        
+</div>
+	</div>
+
+
+
+
+
+
+
+
+
+    <footer class="footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <h2>About Hunt4place</h2>
+
+                    <p>Hunting is illegal in our country, but not if you do it with us. Hunt4place
+is a virtual place that helps you hunt for real places. Hunting is so easy
+NOW!</p>
+<p>
+Don’t you often waste most of your time deciding place for an evening
+outing? You will unless you aren’t human!</p>
+<p align="center">Watch or shop,</p>
+<p align="center">Eat or meet;</p>
+<p align="center">Choices are many,</p>
+<p align="center">And all of us try to be canny!!</p>
+<p>It isn’t an easy task to come down to limited number of choices. Most of
+us are struck in a dilemma, when we decide to try something new. Each
+person is unique. What may be luring to one, may not be reasonable to
+other. There are infinite options and most of us don’t know where to
+start.<p></p> Our recommender engine works to close down your alternatives so
+that you keep on creating memories and leave your next hunt4place to
+us.</p>
+<p align="center" style="font-size:14px"><b>Hunt for places of food, entertainment, travel and leisure
+in your city.</b></p>
+<p>Make memories, leave decisions for us. Welcome to hunt4place.in!</p>
+<p align="center" style="font-size:18px"><b>HUNTING IS LEGAL HERE!!</b></p>
+
+
+                </div><!-- /.col-* -->
+
+                <div class="col-sm-4">
+                    <h2>Our Story</h2>
+
+                    <p>While on a Himalayan mountaineering camp, we got separated
+from the group. We lost our way. There was no way of
+contacting the base camp. We were suddenly met by the fear
+of man-eaters. We kept walking, trying to find a way out.
+After miles of walking down the hill, we found a hutment. We
+knocked at the door to meet a huge brown-bearded guy. He
+looked enormous and frightening at first. His words,”Youh
+boyz outta ‘ere hunting?” was friendly.</p><p>He offered each of us
+a drink. Later, he helped us locate our base camps. We found
+out on our way back that he was a hunter and knew the entire
+jungle. When he left us at the base camp, we offered him
+some money. He said, “ever lost ‘ur way, remember this
+hunter!”</p><p align="center" style="font-size:16px"><b>We created this digital hunter to help people similarly. People
+can hunt 4 places here.</b></p>
+                </div><!-- /.col-* -->
+
+                <div class="col-sm-4">
+                    <h2>Like Us On</h2>
+
+                    <ul class="social-links nav nav-pills">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                    </ul><!-- /.header-nav-social -->
+                </div><!-- /.col-* -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.footer-top -->
+
+</footer><!-- /.footer -->
+</div>
+
+
+
+
+
+
+
+
+<script src="assets/js/jquery.js" type="text/javascript"></script>
+<script src="assets/js/map.js" type="text/javascript"></script>
+
+<script src="assets/libraries/bootstrap-sass/javascripts/bootstrap/collapse.js" type="text/javascript"></script>
+<script src="assets/libraries/bootstrap-sass/javascripts/bootstrap/carousel.js" type="text/javascript"></script>
+<script src="assets/libraries/bootstrap-sass/javascripts/bootstrap/transition.js" type="text/javascript"></script>
+<script src="assets/libraries/bootstrap-sass/javascripts/bootstrap/dropdown.js" type="text/javascript"></script>
+<script src="assets/libraries/bootstrap-sass/javascripts/bootstrap/tooltip.js" type="text/javascript"></script>
+<script src="assets/libraries/bootstrap-sass/javascripts/bootstrap/tab.js" type="text/javascript"></script>
+<script src="assets/libraries/bootstrap-sass/javascripts/bootstrap/alert.js" type="text/javascript"></script>
+
+<script src="assets/libraries/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
+
+<script src="assets/libraries/flot/jquery.flot.min.js" type="text/javascript"></script>
+<script src="assets/libraries/flot/jquery.flot.spline.js" type="text/javascript"></script>
+
+<script src="assets/libraries/bootstrap-select/bootstrap-select.min.js" type="text/javascript"></script>
+
+<script src="http://maps.googleapis.com/maps/api/js?libraries=weather,geometry,visualization,places,drawing&amp;sensor=false" type="text/javascript"></script>
+
+<script type="text/javascript" src="assets/libraries/jquery-google-map/infobox.js"></script>
+<script type="text/javascript" src="assets/libraries/jquery-google-map/markerclusterer.js"></script>
+<script type="text/javascript" src="assets/libraries/jquery-google-map/jquery-google-map.js"></script>
+
+<script type="text/javascript" src="assets/libraries/owl.carousel/owl.carousel.js"></script>
+<script type="text/javascript" src="assets/libraries/bootstrap-fileinput/fileinput.min.js"></script>
+
+<script src="assets/js/superlist.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script src="js/all-1446562932.js"></script>
+<script src="assets/2c3c441f/js/bootstrap.js"></script></body>
+
+<!-- Mirrored from ajoke.cz/wizard2/examples?t=circle&e=slide&r=0 by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 01 Jan 2016 19:25:05 GMT -->
+</html>

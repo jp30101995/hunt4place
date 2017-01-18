@@ -1,0 +1,35 @@
+             <fieldset data-role="controlgroup" data-type="horizontal">
+                <legend>Type of Hotel</legend>
+                	<label for="veg"><img src="../assets/img/tmp/agent-2.png"></label>
+                    <input type="checkbox" name="typeofhotel" id="morning" value="morning">
+            </fieldset>
+           <fieldset>
+                <legend>Price Range</legend>
+                     <select class="form-control" name="Time">
+                          <option value="1">Maharaja</option>
+                          <option value="2">Economy</option>
+                          <option value="3">Essential</option>
+                     </select>
+
+            </fieldset>
+            <fieldset>
+                <legend>Cuisine</legend>
+                	<input type="checkbox" name="cuisine">South indias<br>
+					<input type="checkbox" name="cuisine">South indias
+            </fieldset>
+            <fieldset data-role="controlgroup" data-type="horizontal">
+                <legend>Place</legend>
+                     <select class="form-control" name="Time">
+                          <option value="1">Maharaja</option>
+                          <option value="2">Economy</option>
+                          <option value="3">Essential</option>
+                     </select>
+    		</fieldset>
+            <fieldset data-role="controlgroup" data-type="horizontal">
+          <label for="red">Red</label>
+          <input type="checkbox" name="favcolor" id="red" value="red">
+          <label for="green">Green</label>
+          <input type="checkbox" name="favcolor" id="green" value="green">
+          <label for="blue">Blue</label>
+          <input type="checkbox" name="favcolor" id="blue" value="blue">		
+            </fieldset>

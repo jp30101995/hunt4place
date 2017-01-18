@@ -1,0 +1,33 @@
+    <fieldset data-role="controlgroup">
+      <legend>What do you like to do on weekend or non-working sunday?</legend>
+        <label for="q1op1">Jog or morning walk</label>
+        <input type="checkbox" name="q1op1" id="q1op1" value="q1op1">
+        <label for="q1op2">Watch a movie</label>
+        <input type="checkbox" name="q1op2" id="q1op2" value="q1op2">
+        <label for="q1op3">Muse over art or history</label>
+        <input type="checkbox" name="q1op3" id="q1op3" value="q1op3">
+        <label for="q1op4">Household Shopping</label>
+        <input type="checkbox" name="q1op4" id="q1op4" value="q1op4">
+        <label for="q1op5">Take up a highway root - go for a walk</label>
+        <input type="checkbox" name="q1op5" id="q1op5" value="q1op5">
+        <label for="q1op6">Relax - have spa or massage</label>
+        <input type="checkbox" name="q1op6" id="q1op6" value="q1op6">
+  </fieldset>
+  <fieldset data-role="controlgroup">
+      <legend>Last day of your life</legend>
+        <label for="q2op1">eat,shop,celebrate - party all night</label>
+        <input type="checkbox" name="q2op1" id="q2op1" value="q2op1">
+        <label for="q2op2">Help the underpriviledged - social work</label>
+        <input type="checkbox" name="q2op2" id="q2op2" value="q2op2">
+        <label for="q2op3">Leave every thing and go to some lonely place</label>
+        <input type="checkbox" name="q2op3" id="q2op3" value="q2op3">
+  </fieldset>
+  <fieldset data-role="controlgroup">
+        <legend>What do you think about most</legend>
+          <label for="q3op1">Past</label>
+          <input type="checkbox" name="q3op1" id="q3op1" value="q3op1">
+          <label for="q3op2">Present</label>
+          <input type="checkbox" name="q3op2" id="q3op2" value="q3op2">
+          <label for="q3op3">Future</label>
+          <input type="checkbox" name="q3op3" id="q3op3" value="q3op3">
+  </fieldset>

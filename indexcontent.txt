@@ -1,0 +1,64 @@
+                <div class="mt-150">
+    <div class="hero-image">
+    <div class="hero-image-inner" style="background-image: url(assets/img/background.jpg)">
+        <div class="hero-image-content">
+            <div class="container">
+                <a href="#"><p style="font-size:63px">hunt4place</p></a>
+				<div class="grow img">
+                <a href="listing-submit.html" onMouseOver="content()" ><img onKeyUp="increase()" src="assets/img/tmp/agent-2.png" width="150" height="150"></a>
+                <a href="listing-submit.html" onMouseOver="content2()" ><img onKeyUp="increase()" src="assets/img/tmp/agent-2.png" width="150" height="150"></a>
+                <a href="listing-submit.html" onMouseOver="content3()" ><img onKeyUp="increase()" src="assets/img/tmp/agent-2.png" width="150" height="150"></a>
+                </div>
+            </div><!-- /.container -->
+        </div><!-- /.hero-image-content -->
+
+        <div class="hero-image-form-wrapper">
+            <div class="container">
+                <div class="row">
+                    <!--div class="col-sm-20 col-sm-offset-8 col-lg-4 col-lg-offset-8" >
+                          <p>-Start Searching<br>-hotels<br>-cafe<br>-restaurant</p>
+
+
+
+
+
+
+
+                    </div><!-- /.col-* -->
+                    <div id="sectioninfo" style="position:absolute; top:-385px; left:855px; z-index:200">
+                             <p>&#9830&nbspHotels<br>&#9830&nbspRestaurents<br>&#9830&nbspcafe<br<&#9830&nbspStreet food</p>                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.hero-image-form-wrapper -->
+        
+    </div><!-- /.hero-image-inner -->
+</div><!-- /.hero-image -->
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search for event, hotel, restaurant, job ... ">
+                    <span class="input-group-btn">
+                        <button class="btn btn-primary" type="button">Search</button>
+                    </span>
+                </div><!-- /.input-group -->

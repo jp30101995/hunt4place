@@ -1,0 +1,69 @@
+    <footer class="footer">
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <h2>About Hunt4place</h2>
+
+                    <p>Hunting is illegal in our country, but not if you do it with us. Hunt4place
+is a virtual place that helps you hunt for real places. Hunting is so easy
+NOW!</p>
+<p>
+Don’t you often waste most of your time deciding place for an evening
+outing? You will unless you aren’t human!</p>
+<p align="center">Watch or shop,</p>
+<p align="center">Eat or meet;</p>
+<p align="center">Choices are many,</p>
+<p align="center">And all of us try to be canny!!</p>
+<p>It isn’t an easy task to come down to limited number of choices. Most of
+us are struck in a dilemma, when we decide to try something new. Each
+person is unique. What may be luring to one, may not be reasonable to
+other. There are infinite options and most of us don’t know where to
+start.<p></p> Our recommender engine works to close down your alternatives so
+that you keep on creating memories and leave your next hunt4place to
+us.</p>
+<p align="center" style="font-size:14px"><b>Hunt for places of food, entertainment, travel and leisure
+in your city.</b></p>
+<p>Make memories, leave decisions for us. Welcome to hunt4place.in!</p>
+<p align="center" style="font-size:18px"><b>HUNTING IS LEGAL HERE!!</b></p>
+
+
+                </div><!-- /.col-* -->
+
+                <div class="col-sm-4">
+                    <h2>Our Story</h2>
+
+                    <p>While on a Himalayan mountaineering camp, we got separated
+from the group. We lost our way. There was no way of
+contacting the base camp. We were suddenly met by the fear
+of man-eaters. We kept walking, trying to find a way out.
+After miles of walking down the hill, we found a hutment. We
+knocked at the door to meet a huge brown-bearded guy. He
+looked enormous and frightening at first. His words,”Youh
+boyz outta ‘ere hunting?” was friendly.</p><p>He offered each of us
+a drink. Later, he helped us locate our base camps. We found
+out on our way back that he was a hunter and knew the entire
+jungle. When he left us at the base camp, we offered him
+some money. He said, “ever lost ‘ur way, remember this
+hunter!”</p><p align="center" style="font-size:16px"><b>We created this digital hunter to help people similarly. People
+can hunt 4 places here.</b></p>
+                </div><!-- /.col-* -->
+
+                <div class="col-sm-4">
+                    <h2>Like Us On</h2>
+
+                    <ul class="social-links nav nav-pills">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                    </ul><!-- /.header-nav-social -->
+                </div><!-- /.col-* -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.footer-top -->
+
+</footer><!-- /.footer -->

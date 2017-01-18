@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<?php
+session_start();
+include 'connect.php';
+$emailerr = $passworderr = "";
+$password = $email = "";
+$count = 0; 
+$wrongPass = "";
+if($_SERVER["REQUEST_METHOD"] == "POST"){
+	if(empty($_POST["password"])){
+		echo "<script>
+if(window.confirm('password is mendatory')){
+	window.location.assign('index.php');
+}
+else{
+	window.location.assign('index.php');
+}
+</script>
+";
+	}
+	else{
+		$password=test_input($_REQUEST["password"]);
+		$count++;
+	}
+	if(empty($_POST["email"])){
+		echo "<script>
+if(window.confirm('email is mendatory')){
+	window.location.assign('index.php');
+}
+else{
+	window.location.assign('index.php');
+}
+</script>
+";
+	}
+	else{
+		if (filter_var($_REQUEST["email"], FILTER_VALIDATE_EMAIL) === false) {
+  			echo "<script>
+if(window.confirm('plz enter correct email')){
+	window.location.assign('index.php');
+}
+else{
+	window.location.assign('index.php');
+}
+</script>
+";
+		}
+		else{
+			$email=test_input($_REQUEST["email"]);
+			$count++;
+		}
+	}
+
+}
+if($count==2){
+$sql= "SELECT * FROM login WHERE Email='".$email."' AND Password='".$password."'";
+
+$result=mysqli_query($con,$sql);
+if (mysqli_num_rows($result)>0) {
+	echo "adfijfjdoif";
+	echo "<script type='text/javascript'>window.location.href = 'sample.php?name='".$row['Name']."'&email='".$row['Email']."'';</script>";
+
+} else {
+    $wrongPass = "Please check your email or Password ";
+}
+}
+function test_input($data) {
+   $data = trim($data);
+   $data = stripslashes($data);
+   $data = htmlspecialchars($data);
+   return $data;
+}
+
+?>
+
